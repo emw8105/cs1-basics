@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632449607 source:c:\homeworks\9_23_rand\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
