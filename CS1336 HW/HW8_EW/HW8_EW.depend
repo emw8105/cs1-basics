@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636494323 source:c:\homeworks\hw8_ew\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

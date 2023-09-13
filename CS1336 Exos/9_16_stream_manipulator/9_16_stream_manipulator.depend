@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631847558 source:c:\homeworks\9_16_stream_manipulator\main.cpp
+	<iostream>
+	<iomanip>
+
+1631847558 source:c:\homeworks\cs1336 exos\9_16_stream_manipulator\main.cpp
+	<iostream>
+	<iomanip>
+

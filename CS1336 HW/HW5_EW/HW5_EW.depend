@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633549956 source:c:\homeworks\hw5_ew\main.cpp
+	<iostream>
+	<iomanip>
+
