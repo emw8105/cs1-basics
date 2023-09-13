@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638344721 source:c:\homeworks\11_30_array_as_argument\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636755903 source:c:\homeworks\11_11_file\main.cpp
+	<iostream>
+	<fstream>
+
+1636755903 source:c:\homeworks\cs1336 exos\11_11_file\main.cpp
+	<iostream>
+	<fstream>
+
