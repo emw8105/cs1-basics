@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634161019 source:c:\homeworks\lesson6part1\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
