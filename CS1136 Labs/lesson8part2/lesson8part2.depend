@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637012018 source:c:\homeworks\lesson8part2\main.cpp
+	<iostream>
+	<iomanip>
+

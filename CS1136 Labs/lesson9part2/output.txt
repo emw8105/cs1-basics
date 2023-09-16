@@ -1,0 +1,4 @@
+Total values: 12
+Invalid values: 5
+Valid values: 7
+Average of valid values: 77.71
